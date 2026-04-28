@@ -2,7 +2,9 @@
 
 A lightweight Trello-style Kanban board. Sign up, create boards, drag cards across columns. Card order survives page reloads. Works on mobile via long-press to drag.
 
-> Built as a 48-hour case study. The PRD and feature scope are in [`product_prd.md`](./product_prd.md). T
+**Live demo:** [task-flow-koc-sistem-case-study-hnrj-peisjnlco.vercel.app](https://task-flow-koc-sistem-case-study-hnrj-peisjnlco.vercel.app)
+
+> Built as a 48-hour case study. The PRD and feature scope are in [`product_prd.md`](./product_prd.md). 
 
 ## Stack
 
