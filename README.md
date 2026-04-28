@@ -2,7 +2,7 @@
 
 A lightweight Trello-style Kanban board. Sign up, create boards, drag cards across columns. Card order survives page reloads. Works on mobile via long-press to drag.
 
-> Built as a 48-hour case study. The PRD and feature scope are in [`product_prd.md`](./product_prd.md). The reasoning behind every technical choice is in [`DECISIONS.md`](./DECISIONS.md).
+> Built as a 48-hour case study. The PRD and feature scope are in [`product_prd.md`](./product_prd.md). T
 
 ## Stack
 
@@ -121,6 +121,4 @@ Prerequisites: Node 20+ and a Supabase project (free tier is fine).
 
 See [`product_prd.md`](./product_prd.md) §4. Briefly: no realtime, no sharing, no labels, no activity log. Card deadlines and responsible-person fields are included; more advanced features (reminders, avatar photos, multiple assignees) remain out of scope.
 
-## Trade-offs and the reasoning behind every choice
 
-See [`DECISIONS.md`](./DECISIONS.md).
